@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-family: monospace;
+    padding: 24px;
+}
+
+.title{
+    font-size: 48px;
+    color: aqua;
+}
+
+.list-item{
+    margin-bottom: 24px;
+    font-size: 24px;
+}
+
+input{
+    height: 32px;
+    background-color: transparent;
+    color: white;
+    border-color: aqua;
+    border-radius: 4px;
+    font-size: 24px;
+    padding: 8px;
+}
+
+.add-task-button{
+    font-size: 16px;
+    padding: 16px;
+    background-color: aqua;
+    border-width: 0px;
+    border-radius: 4px;
+    color: black;
+    font-weight: bold;
+    font-family: monospace;
+}
